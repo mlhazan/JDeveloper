@@ -7,7 +7,7 @@
         <af:form id="f1">
             <af:pageTemplate viewId="/storetemplate.jsf" id="pt1">
                 <f:facet name="center">
-                    <af:panelSplitter id="ps1" inlineStyle="width:1257px; height:654px;">
+                    <af:panelSplitter id="ps1" inlineStyle="width:1257px; height:654px;" splitterPosition="199">
                         <f:facet name="first">
                             <af:panelAccordion discloseMany="false" id="pa1">
                                 <af:showDetailItem id="pane1" text="My Cart">
